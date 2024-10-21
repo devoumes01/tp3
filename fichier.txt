@@ -1,2 +1,3 @@
 Nouvelle fonctionnalité
+v2
 Nouvelle fonctionnalité Y
